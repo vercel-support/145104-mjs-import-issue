@@ -32,5 +32,5 @@ Defining the same function locally within `next.config.js` works fine.
 
 ## Relevant files
 
-- [next.config.mjs](https://github.com/misikoff/next.config.mjs-issue/blob/main/apps/example/next.config.mjs)
-- [local function file](https://github.com/misikoff/next.config.mjs-issue/blob/main/apps/example/lib/functions.ts)
+- [next.config.mjs](https://github.com/misikoff/mjs-import-issue/blob/main/apps/example/next.config.mjs)
+- [local function file](https://github.com/misikoff/mjs-import-issue/blob/main/apps/example/lib/functions.ts)
